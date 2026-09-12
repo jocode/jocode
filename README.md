@@ -1,6 +1,6 @@
 # Hola, soy Johan 👋
 
-Ingeniero Android e Ingeniero Electrónico, con cerca de 10 años construyendo apps móviles. Actualmente en **Mercado Libre**, trabajando en pagos, checkout y experiencia de video dentro de la app.
+Ingeniero Android e Ingeniero Electrónico, con cerca de 10 años construyendo apps móviles. Actualmente en **Mercado Libre**, trabajando en pagos y experiencia multimedia dentro de la app.
 
 - 🔭 Fuera del trabajo, sigo construyendo: cofundador de **[Xplid](https://xplid.co)**, una app de dinero compartido (Kotlin Multiplatform, offline-first).
 - 🌎 Creé el **[Colombia MCP Server](https://github.com/crexative/colombia-mcp-server)**, un servidor MCP open source con datos geográficos y turísticos de Colombia, usable desde Claude, Cursor y otros agentes de IA.
