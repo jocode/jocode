@@ -1,10 +1,11 @@
 # Hola, soy Johan 👋
 
-Ingeniero Android e Ingeniero Electrónico, con cerca de 10 años construyendo apps móviles. Actualmente en **Mercado Libre**, trabajando en pagos y experiencia multimedia dentro de la app.
+Ingeniero Android e Ingeniero Electrónico, con cerca de 10 años construyendo apps móviles. Actualmente en **Mercado Libre**, trabajando en social commerce: cámara, video y todo lo que conecta contenido con compra dentro de la app.
 
 - 🔭 Fuera del trabajo, sigo construyendo: cofundador de **[Xplid](https://xplid.co)**, una app de dinero compartido (Kotlin Multiplatform, offline-first).
 - 🌎 Creé el **[Colombia MCP Server](https://github.com/crexative/colombia-mcp-server)**, un servidor MCP open source con datos geográficos y turísticos de Colombia, usable desde Claude, Cursor y otros agentes de IA.
 - ⚡ Me interesa el cruce entre software y hardware: mi último proyecto personal usa CameraX y visión por computador para mantenimiento preventivo de PCB.
+- ✍️ Empezando a compartir lo que aprendo en [Medium](https://medium.com/@johanmosquera).
 - 🧠 Sigo aprendiendo cada semana — Kotlin Multiplatform, Compose, arquitectura limpia, y cómo aplicar IA al flujo de desarrollo real.
 
 ## Stack
@@ -13,4 +14,4 @@ Ingeniero Android e Ingeniero Electrónico, con cerca de 10 años construyendo a
 
 ## Contacto
 
-[LinkedIn](https://linkedin.com/in/johanmosquera) · [jocode.github.io](https://jocode.github.io) · joncamilo-mn@hotmail.com
+[LinkedIn](https://linkedin.com/in/johanmosquera) · [jocode.github.io](https://jocode.github.io) · [Medium](https://medium.com/@johanmosquera)
